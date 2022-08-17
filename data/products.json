@@ -1,0 +1,80 @@
+[
+  {
+    "organization": "tech experts",
+    "createdAt": "2020-08-12T19:04:55.455Z",
+    "updatedAt": "2020-08-12T19:04:55.455Z",
+    "products": ["developers", "pizza"],
+    "marketValue": "80%",
+    "address": "victoria island",
+    "ceo": "temi",
+    "country": "Thailand",
+    "id": "1",
+    "noOfEmployees": 4,
+    "employees": ["james bobby", "chan khan", "rami rafiat", "victor ojo"]
+  },
+  {
+    "organization": "node ninja",
+    "createdAt": "2020-08-12T19:04:55.455Z",
+    "updatedAt": "2020-08-12T19:04:55.455Z",
+    "products": ["developers", "pizza"],
+    "marketValue": "90%",
+    "address": "sangotedo",
+    "ceo": "cn",
+    "country": "Taiwan",
+    "id": "2",
+    "noOfEmployees": 2,
+    "employees": ["james bond", "jackie chan"]
+  },
+  {
+    "organization": "android baba",
+    "createdAt": "2020-08-12T19:04:55.455Z",
+    "updatedAt": "2020-08-12T19:04:55.455Z",
+    "products": ["developers"],
+    "marketValue": "95%",
+    "address": "ikoyi",
+    "ceo": "bond",
+    "country": "England",
+    "id": "3",
+    "noOfEmployees": 6,
+    "employees": [
+      "etim offiong",
+      "chi ngozi",
+      "okoye akpan",
+      "blessing oluwatosin",
+      "esther adebayo",
+      "emmanuel adebisi"
+    ]
+  },
+  {
+    "organization": "web express",
+    "createdAt": "2020-08-12T19:04:55.455Z",
+    "updatedAt": "2020-08-12T19:04:55.455Z",
+    "products": ["software engineers", "web developers"],
+    "marketValue": "78%",
+    "address": "apapa",
+    "ceo": "steph",
+    "country": "canada",
+    "id": "4",
+    "noOfEmployees": 5,
+    "employees": [
+      "pablo escobar",
+      "armani zara",
+      "james bond",
+      "channel nkoyo",
+      "jackie chan"
+    ]
+  },
+  {
+    "id": "ce1aad05-8495-40ed-85cb-c72bcfb957a5",
+    "organization": "Decagon",
+    "createdAt": "2022-03-12T21:10:35.500Z",
+    "updatedAt": "2020-07-12T21:05:56.500Z",
+    "products": ["loafers", "brogue"],
+    "marketValue": "40%",
+    "address": "maldives",
+    "ceo": "benn",
+    "country": "mauritius",
+    "noOfEmployees": 2,
+    "employees": ["new eomployee one", "new eomployee two"]
+  }
+]
